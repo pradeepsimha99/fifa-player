@@ -1,0 +1,10 @@
+age
+height_cm
+weight_kg
+potential
+pace
+shooting
+passing
+dribbling
+defending
+physic
