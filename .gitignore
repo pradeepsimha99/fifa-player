@@ -21,8 +21,6 @@ Thumbs.db
 
 
 data/
-models/random_forest_model.pkl
-*.pkl
 
 __pycache__/
 .ipynb_checkpoints/
