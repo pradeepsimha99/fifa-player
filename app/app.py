@@ -17,7 +17,7 @@ st.set_page_config(
 # LOAD MODEL
 # --------------------------------------------------
 
-MODEL_PATH = "models/random_forest_model.pkl"
+MODEL_PATH = "models/random_forest_compressed.pkl"
 
 @st.cache_resource
 def load_model():
